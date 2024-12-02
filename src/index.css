@@ -1,0 +1,10 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.9030264205291492) 35%, rgba(0, 0, 0, 1) 90%, rgba(0, 0, 0, 1) 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
