@@ -54,63 +54,57 @@ function App() {
     {
       id: uuid(),
       categoria: 'Front End',
-      link: 'https://www.youtube.com/watch?v=AG2QssLpQzI',
-      imagen: 'https://i.ytimg.com/vi/AG2QssLpQzI/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=GJfOSoaXk4s&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/GJfOSoaXk4s/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Front End',
-      link: 'https://www.youtube.com/watch?v=JJgcJ9g-a30',
-      imagen: 'https://i.ytimg.com/vi/JJgcJ9g-a30/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=rpvrLaBQwgg&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Front End',
-      link: 'https://www.youtube.com/watch?v=j71g5TiMA-M',
-      imagen: 'https://i.ytimg.com/vi/j71g5TiMA-M/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=-Ou5c3A225k&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/-Ou5c3A225k/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Back End',
-      link: 'https://www.youtube.com/watch?v=Z024LSCMqFk',
-      imagen: 'https://i.ytimg.com/vi/Z024LSCMqFk/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=t-iqt1b2qqk&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/t-iqt1b2qqk/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Back End',
-      link: 'https://www.youtube.com/watch?v=eejIHbOk_uI',
-      imagen: 'https://i.ytimg.com/vi/eejIHbOk_uI/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=cLLKVd5CNLc&t=639s&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/cLLKVd5CNLc/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Back End',
-      link: 'https://www.youtube.com/watch?v=3aK3Omo2RrU',
-      imagen: 'https://i.ytimg.com/vi/3aK3Omo2RrU/maxresdefault.jpg'
+      link: 'https://www.youtube.com/watch?v=EoPvlE85XAQ&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/EoPvlE85XAQ/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Innovación y Gestión',
-      link: 'https://www.youtube.com/watch?v=pOYyav4qx7o',
-      imagen: 'https://i.ytimg.com/vi/pOYyav4qx7o/maxresdefault.jpg'
-    },
-    {
-      id: uuid(),
-      categoria: 'Innovación y Gestión',
-      link: 'https://www.youtube.com/watch?v=mwNfWRsDDWE',
-      imagen: 'https://i.ytimg.com/vi/mwNfWRsDDWE/maxresdefault.jpg'
-    },
-    {
-      id: uuid(),
-      categoria: 'Innovación y Gestión',
-      link: 'https://www.youtube.com/watch?v=vhwspfvI52k',
+      link: 'https://www.youtube.com/watch?v=vhwspfvI52k&ab_channel=AluraLatam',
       imagen: 'https://i.ytimg.com/vi/vhwspfvI52k/maxresdefault.jpg'
     },
     {
       id: uuid(),
       categoria: 'Innovación y Gestión',
-      link: 'https://www.youtube.com/watch?v=7lnmW8fB0nM',
-      imagen: 'https://i.ytimg.com/vi/7lnmW8fB0nM/maxresdefault.jpg'
-    }
+      link: 'https://www.youtube.com/watch?v=_-9grhDhxiU&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/_-9grhDhxiU/maxresdefault.jpg'
+    },
+    {
+      id: uuid(),
+      categoria: 'Innovación y Gestión',
+      link: 'https://www.youtube.com/watch?v=6N3OkLCfK-0&t=3s&ab_channel=AluraLatam',
+      imagen: 'https://i.ytimg.com/vi/6N3OkLCfK-0/maxresdefault.jpg'
+    },
   ]);
 
 

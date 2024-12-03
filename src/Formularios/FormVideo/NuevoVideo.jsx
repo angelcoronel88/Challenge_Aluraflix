@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { TextField, Select, MenuItem, InputLabel, FormControl, InputAdornment } from "@mui/material";
-import { VideoLibrary, Image, Description, Link as LinkIcon } from "@mui/icons-material";
+import { VideoLibrary, Image, Descripcion, Link as LinkIcon } from "@mui/icons-material";
 import Botones from "../../Components/Botones/Botones";
 import Spinner from "../../Components/Spinner/Spinner";
 import { Navigate } from "react-router-dom";
